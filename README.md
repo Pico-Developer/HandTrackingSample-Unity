@@ -14,4 +14,4 @@ Demonstration of related case scenarios for gathering handtracking
 
 We will introduce some example in the below.
 
-![](./doc/handPose-Love.png)
+![](./handPose-Love.png)
