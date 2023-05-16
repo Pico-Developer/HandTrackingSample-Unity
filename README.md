@@ -13,3 +13,5 @@ Demonstration of related case scenarios for gathering handtracking
 | HandPoseExample |  | How to use HandPoseEditor and show the effect of trigger logic |
 
 We will introduce some example in the below.
+
+![](./doc/handPose-Love.png)
